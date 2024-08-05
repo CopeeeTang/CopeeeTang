@@ -1,14 +1,17 @@
 # 👋 Hi, I'm Tang Xin
 📚 **Education:**
 - **Beijing University of Posts and Telecommunications** (2021 - 2025)
-  - Major: Telecommunications Engineering 
+  - Major: Telecommunications Engineering
+  - 
 🏆 **Achievements:**
 - 📱 3rd Prize in the National Finals of the 9th "Datang Cup" 5G Technology Competition
 - 🧮 National 2nd Prize in the National Undergraduate Mathematics Competition
 - 🎓 Scholarship Winner for both Freshman and Sophomore years
+
 🔬 **Research Experience:**
 - NUS SUMMER WORKSHOP 2024.7
 - THU Human-Computer Interaction lab (2024 - present)
+- 
 🌟 **Interests:**
   -HCI  -Multi-Agent  -Computer Version  
 📫 **Plan**
