@@ -13,7 +13,8 @@
 - THU Human-Computer Interaction lab (2024 - present)
 
 🌟 **Interests:**
-  - HCI  - Multi-Agent  - Computer Version  
+  - HCI     Multi-Agent     Computer Version    LLM
+
 📫 **Plan**
 - I'm looking forward a Master/Phd Degree in Computer Science, My interests are above.
 - I'm trying to build the connection between human and AI, I hope to make sense how to make LLM more controlable and explore the role the LLM plays in a human-centred society.
